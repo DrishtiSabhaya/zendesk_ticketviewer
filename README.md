@@ -13,7 +13,7 @@ Make sure you have NodeJS installed. My current version of Node is v12.21.0.
 3. Use `npm start` to run the project.
 4. Use `jest` to run the tests.
 
-##Technologies Used
+## Technologies Used
 1. Node.js
 2. Axios
 3. Readline-sync
