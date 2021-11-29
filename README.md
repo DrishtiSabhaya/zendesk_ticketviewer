@@ -18,6 +18,7 @@ Make sure you have NodeJS installed. My current version of Node is v12.21.0.
 2. Axios
 3. Readline-sync
 4. Jest
+5. Chai
 
 ## Design
 I have used MVC concept to implement this task where my model supplies with logic of fetching
@@ -39,7 +40,7 @@ select from other 3 options which are:
 
 In this way the user will be able to use the whole functionality.
 
-##Test
+## Test
 I have written unit tests for testing the functionality of the model wherein different
 inputs from the user are tested against the model. I have used jest framework which is 
 popular javascript testing framework. Some of my test cases include fetching single ticket
